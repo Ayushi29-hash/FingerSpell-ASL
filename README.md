@@ -1,6 +1,6 @@
 # FingerSpell-ASL
 
-The CNN is trained on a custom dataset containing alphabets A-Y (excluding J) of American Sign Language using tensorflow and keras. The images are captured and pre-processed using OpenCV.ML model is connected to the front end using flask.
+The CNN is trained on a custom dataset containing alphabets A-Y (excluding J) of American Sign Language using tensorflow and keras. The images are captured and pre-processed using OpenCV. ML model is connected to the front end using flask.
 
 ## Usage 
 
