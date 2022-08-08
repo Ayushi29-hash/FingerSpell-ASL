@@ -7,7 +7,7 @@ The CNN is trained on a custom dataset containing alphabets A-Y (excluding J) of
 ### To run from Website
 
 #### capture button 
-This is used to add new gueture to our language.
+This is used to add new gesture to our language.
 Set up the path in the server.py @route /capture
 Place your hand in the green box and press C to start capturing the data.
 
